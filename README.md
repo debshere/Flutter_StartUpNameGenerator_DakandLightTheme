@@ -1,4 +1,4 @@
-# flutter_application_1
+# flutter_startup_name_genearator_with_theme
 
 A new Flutter project.
 
